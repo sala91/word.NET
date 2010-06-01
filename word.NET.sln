@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word.NET", "word.NET\word.NET.csproj", "{5908A3B6-9220-4A7B-8DEC-3950C5CB5E1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word.NET", "word.NET\word.NET.csproj", "{A9E6A2D9-07B3-475B-B863-2BFC140797B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5908A3B6-9220-4A7B-8DEC-3950C5CB5E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5908A3B6-9220-4A7B-8DEC-3950C5CB5E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5908A3B6-9220-4A7B-8DEC-3950C5CB5E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5908A3B6-9220-4A7B-8DEC-3950C5CB5E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E6A2D9-07B3-475B-B863-2BFC140797B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E6A2D9-07B3-475B-B863-2BFC140797B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E6A2D9-07B3-475B-B863-2BFC140797B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E6A2D9-07B3-475B-B863-2BFC140797B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

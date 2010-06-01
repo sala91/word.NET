@@ -1,0 +1,5 @@
+c:\users\sala\documents\visual studio 2010\Projects\katsetus\katsetus\bin\katsetus.dll
+c:\users\sala\documents\visual studio 2010\Projects\katsetus\katsetus\bin\katsetus.pdb
+c:\users\sala\documents\visual studio 2010\Projects\katsetus\katsetus\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sala\documents\visual studio 2010\Projects\katsetus\katsetus\obj\Debug\katsetus.dll
+c:\users\sala\documents\visual studio 2010\Projects\katsetus\katsetus\obj\Debug\katsetus.pdb

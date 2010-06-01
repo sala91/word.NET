@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.Master.cs" Inherits="katsetus.Administrative.admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>BlissCMS Admin</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <h1>BlissCMS Admin</h1><hr />
+        <a href="lisamine.aspx">Lisa sisu</a> | <a href="muutmine.aspx">Muuda sisu</a> | <a href="seaded.aspx">Seaded</a> | <asp:LoginStatus ID="LoginStatus1" runat="server" /><hr />
+       <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        Copyme 2010
+    </div>
+    </form>
+</body>
+</html>

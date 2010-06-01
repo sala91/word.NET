@@ -1,0 +1,5 @@
+C:\Users\Sala\Documents\Visual Studio 2010\Projects\word.NET\word.NET\bin\katsetus.dll
+C:\Users\Sala\Documents\Visual Studio 2010\Projects\word.NET\word.NET\bin\katsetus.pdb
+C:\Users\Sala\Documents\Visual Studio 2010\Projects\word.NET\word.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sala\Documents\Visual Studio 2010\Projects\word.NET\word.NET\obj\Debug\katsetus.dll
+C:\Users\Sala\Documents\Visual Studio 2010\Projects\word.NET\word.NET\obj\Debug\katsetus.pdb
